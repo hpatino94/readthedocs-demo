@@ -1,20 +1,15 @@
-.. readthedocs-demo documentation master file, created by
-   sphinx-quickstart on Mon Sep 17 15:11:54 2018.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+GESTION DE ACTIVOS
+******************
 
-Welcome to readthedocs-demo's documentation!
-============================================
+Esta es la documentacion del modulo de activos
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+MOVER UNO O MAS ACTIVOS
+=======================
 
+Cuando se desea mover uno o mas activos del proceso en el que se encuentran actualmente a otro proceso de la empresa, se deben seleccionar los activos a mover en el listado de activos y luego de ello emplear el boton
 
+.. figure::  images/img01.png
+   :align:   center
 
-Indices and tables
-==================
+   Listado de Activos con la opcion de mover
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
